@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PORTFOLIO</title>
+</head>
+<body>
+    <link rel="stylesheet" href="style.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+   <header class="header">
+     <a href="#" class="logo">Heamanth</a>
+
+     <nav class="navbar">
+        <a href="index.html">HOME</a>
+        <a href="#">PROJECTS</a>
+        <a href="contact.html">CONTACT</a>
+        <a href="#">BLOG</a>
+        <a href="#">RESUME</a>
+     </nav>
+   </header>
+
+
+   <section class="home">
+      <div class="home-content">
+      <h4>Hello,it's Me</h4>
+      <h1>HEAMANTH</h1>
+      <h3> And I'm a BEGINNER FRONTEND DEVELOPER</h3>
+      <p>As a beginner front-end developer, I'm excited to start my 
+        journey in building interactive and user-friendly web experiences.I'm eager to continue learning 
+        and exploring the latest technologies and best pratices</p>
+      </div>
+   </section>
+
+   <div class="home-btn">
+  <a href=""> <i  class='bx bxl-facebook'></i></a>
+  <a href=""> <i  class='bx bxl-linkedin'></i></a>
+  <a href=""> <i  class='bx bxl-instagram-alt'></i></a>
+
+</div>
+</body>
+</html>
+
+
